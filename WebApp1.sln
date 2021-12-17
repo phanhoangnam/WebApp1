@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp1", "WebApp1\WebApp1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp2", "WebApp2\WebApp2.csproj", "{4B940AEE-0781-4D62-810F-887F3223D591}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleAuthentication", "GoogleAuthentication\GoogleAuthentication.csproj", "{F1E4B75C-B1E0-48B9-BCC9-1E12EE844AFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4B940AEE-0781-4D62-810F-887F3223D591}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B940AEE-0781-4D62-810F-887F3223D591}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B940AEE-0781-4D62-810F-887F3223D591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E4B75C-B1E0-48B9-BCC9-1E12EE844AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E4B75C-B1E0-48B9-BCC9-1E12EE844AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E4B75C-B1E0-48B9-BCC9-1E12EE844AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E4B75C-B1E0-48B9-BCC9-1E12EE844AFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
